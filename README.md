@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Modulos provides an AI Governance Platform for enterprises, helping organizations govern AI systems they build, buy, or use. The platform offers risk quantification, compliance tools, and a governance graph linking AI assets to controls and evidence. It is recognized in the Gartner Magic Quadrant for AI Governance and serves regulated industries with features like risk scoring, policy enforcement, and audit readiness.
+Modulos provides an AI governance platform that quantifies risks in monetary terms, helping enterprises shift from reactive compliance to proactive, value‑driven management across the AI lifecycle. Founded in 2018 and based in Zurich, Switzerland, Modulos offers ISO 42001‑certified solutions, integrates EU AI Act, NIST AI RMF frameworks, and delivers continuous monitoring, risk management, and evidence collection through a unified governance graph with human‑in‑the‑loop AI agents.
 
-**Areas:** AI · Governance · Enterprise · Risk Management · Compliance
+**Areas:** Company · AI Governance · Enterprise · ISO 42001 · Risk Management
 
 ## Modulos on APIs.io
 
@@ -111,11 +111,10 @@ Spectral rulesets for the provider's contracts.
 
 - [Modulos API Rules](https://apis.io/rules/modulos-ai/modulos-ai-rules/)
 
-#### Security (3)
+#### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Modulos Authentication](https://apis.io/security/modulos-ai/modulos-ai-authentication/)
 - [Modulos Domain Security](https://apis.io/security/modulos-ai/modulos-ai-domain-security/)
 - [Modulos Trust Center](https://apis.io/security/modulos-ai/modulos-ai-trust-center/)
 
@@ -123,29 +122,30 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.modulos.ai/)
-- [Documentation](https://docs.modulos.ai/)
+- [Website](https://modulos.ai/)
+- [Documentation](https://dev.modulos.ai/)
 - [Getting started](https://docs.modulos.ai/guide/quickstart)
 - [Changelog](https://docs.modulos.ai/resources/changelog)
 - [Blog](https://www.modulos.ai/blog/)
 - [Compliance](https://trust.modulos.ai/)
-- [Privacy policy](https://qa.modulos.ai/privacy-policy/)
+- [Terms of service](https://www.modulos.ai/terms-of-use/)
+- [Privacy policy](https://www.modulos.ai/privacy-policy/)
 - [Status](https://status.modulos.ai/)
 
 ## API Evangelist rating
 
-**Kin Score 50.0** — developing · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 47.1** — developing · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.7 |
+| Discoverability | 67.9 |
 | Contract quality | 58.9 |
 | Contract governance | 79.1 |
 | Operational transparency | 28.6 |
-| Developer ergonomics | 42.1 |
+| Developer ergonomics | 30.2 |
 | Access clarity | 29.8 |
 
-**Agent readiness 34.2** — agent-ready
+**Agent readiness 31.9** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -153,7 +153,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Access | unknown |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
-| Auth Clarity | bearer (partial credit) |
+| Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | verified |
 | OpenAPI Examples | — |
@@ -172,7 +172,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.6** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/modulos-ai/](https://apis.io/providers/modulos-ai/).
 
